@@ -7,7 +7,7 @@ Basic HTML5 index template.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of &lt;html5-basic-template&gt; ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 &lt;head&gt;<br>
-  &lt;meta charset="utf-8" /&gt;<br>
+&nbsp;&nbsp; &lt;meta charset="utf-8" /&gt;<br>
   &lt;link rel="shortcut icon" type="image/jpg" href="/images/favicon.ico" /&gt;<br>
 
   &lt;!-- meta viewport, title, desc, robot for SEO --&gt;<br>
