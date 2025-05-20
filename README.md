@@ -8,7 +8,7 @@ Basic HTML5 index template.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 &lt;head&gt;<br>
 &nbsp;&nbsp; &lt;meta charset="utf-8" /&gt;<br>
-  &lt;link rel="shortcut icon" type="image/jpg" href="/images/favicon.ico" /&gt;<br>
+&nbsp;&nbsp;  &lt;link rel="shortcut icon" type="image/jpg" href="/images/favicon.ico" /&gt;<br>
 
 &nbsp;&nbsp;  &lt;!-- meta viewport, title, desc, robot for SEO --&gt;<br>
 &nbsp;&nbsp;  &lt;meta name="author" content="Brian Bauska"&gt;<br>
@@ -17,18 +17,18 @@ Basic HTML5 index template.
 &nbsp;&nbsp;  &lt;meta name="revised" content="Saturday, May 24th, 2025"/&gt;<br>
 &nbsp;&nbsp;  &lt;meta name="description" content="HTML description-max? 500 words perhaps. Start there."&gt;<br>
 &nbsp;&nbsp;  &lt;meta name="keywords" content="HTML,Template,Title,Keywords,Silus,Gaming,World"&gt;<br>
-  &lt;!-- Twitter Meta --&gt; 
-  &lt;meta name="twitter:card" content="summary" /&gt; 
-  &lt;meta name="twitter:site" content="@bbauska" /&gt; 
-  &lt;meta name="twitter:creator" content="@bbauska" /&gt; 
-  &lt;!-- Open Graph Meta 
-  &lt;meta property="og:url" content="https://google.com" /&gt; 
-  &lt;meta property="og:type" content="article" /&gt; 
-  &lt;meta property="og:title" content="Basic HTML Template Title" /&gt; 
-  &lt;meta property="og:description" content="Open graph description of basic html template title." /&gt; 
-  &lt;meta property="og:image" content="http://images/myicon-template.jpg" /&gt; 
-  &lt;meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"&gt; 
-  &lt;meta name="robots" content="index, follow"&gt; 
+&nbsp;&nbsp;  &lt;!-- Twitter Meta --&gt;<br>
+&nbsp;&nbsp;  &lt;meta name="twitter:card" content="summary" /&gt;<br>
+&nbsp;&nbsp;  &lt;meta name="twitter:site" content="@bbauska" /&gt;<br>
+&nbsp;&nbsp;  &lt;meta name="twitter:creator" content="@bbauska" /&gt;<br>
+&nbsp;&nbsp;  &lt;!-- Open Graph Meta<br>
+&nbsp;&nbsp;  &lt;meta property="og:url" content="https://google.com" /&gt;<br>
+&nbsp;&nbsp;  &lt;meta property="og:type" content="article" /&gt;<br>
+&nbsp;&nbsp;  &lt;meta property="og:title" content="Basic HTML Template Title" /&gt;<br>
+&nbsp;&nbsp;  &lt;meta property="og:description" content="Open graph description of basic html template title." /&gt;<br>
+&nbsp;&nbsp;  &lt;meta property="og:image" content="http://images/myicon-template.jpg" /&gt;<br>
+&nbsp;&nbsp;  &lt;meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"&gt;<br>
+&nbsp;&nbsp;  &lt;meta name="robots" content="index, follow"&gt;<br>
 
   &lt;title&gt;Basic HTML Template&lt;/title&gt;
   &lt;link rel="icon" type="image/x-icon" href="/images/favicon.ico" /&gt;
