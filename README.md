@@ -1,19 +1,19 @@
 # basic-html-template
 Basic HTML5 index template.
 
-&lt;!DOCTYPE html&gt; 
-&lt;html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US"&gt; 
+&lt;!DOCTYPE html&gt;<br>
+&lt;html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US"&gt;<br>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of &lt;html5-basic-template&gt; ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-&lt;head&gt; 
-  &lt;meta charset="utf-8" /&gt; 
-  &lt;link rel="shortcut icon" type="image/jpg" href="/images/favicon.ico" /&gt; 
+&lt;head&gt;<br>
+  &lt;meta charset="utf-8" /&gt;<br>
+  &lt;link rel="shortcut icon" type="image/jpg" href="/images/favicon.ico" /&gt;<br>
 
-  &lt;!-- meta viewport, title, desc, robot for SEO --&gt; 
-  &lt;meta name="author" content="Brian Bauska"&gt; 
-  &lt;meta name="title" content="Basic HTML Template Title"&gt; 
-  &lt;meta name="date" content="Tuesday, May 20th, 2025"/&gt; 
+  &lt;!-- meta viewport, title, desc, robot for SEO --&gt;<br>
+  &lt;meta name="author" content="Brian Bauska"&gt;<br>
+  &lt;meta name="title" content="Basic HTML Template Title"&gt;<br>
+  &lt;meta name="date" content="Tuesday, May 20th, 2025"/&gt;<br>
   &lt;meta name="revised" content="Saturday, May 24th, 2025"/&gt; 
   &lt;meta name="description" content="HTML description-max? 500 words perhaps. Start there."&gt; 
   &lt;meta name="keywords" content="HTML,Template,Title,Keywords,Silus,Gaming,World"&gt; 
