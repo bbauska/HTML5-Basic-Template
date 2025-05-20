@@ -10,13 +10,13 @@ Basic HTML5 index template.
 &nbsp;&nbsp; &lt;meta charset="utf-8" /&gt;<br>
   &lt;link rel="shortcut icon" type="image/jpg" href="/images/favicon.ico" /&gt;<br>
 
-  &lt;!-- meta viewport, title, desc, robot for SEO --&gt;<br>
-  &lt;meta name="author" content="Brian Bauska"&gt;<br>
-  &lt;meta name="title" content="Basic HTML Template Title"&gt;<br>
-  &lt;meta name="date" content="Tuesday, May 20th, 2025"/&gt;<br>
-  &lt;meta name="revised" content="Saturday, May 24th, 2025"/&gt; 
-  &lt;meta name="description" content="HTML description-max? 500 words perhaps. Start there."&gt; 
-  &lt;meta name="keywords" content="HTML,Template,Title,Keywords,Silus,Gaming,World"&gt; 
+&nbsp;&nbsp;  &lt;!-- meta viewport, title, desc, robot for SEO --&gt;<br>
+&nbsp;&nbsp;  &lt;meta name="author" content="Brian Bauska"&gt;<br>
+&nbsp;&nbsp;  &lt;meta name="title" content="Basic HTML Template Title"&gt;<br>
+&nbsp;&nbsp;  &lt;meta name="date" content="Tuesday, May 20th, 2025"/&gt;<br>
+&nbsp;&nbsp;  &lt;meta name="revised" content="Saturday, May 24th, 2025"/&gt;<br>
+&nbsp;&nbsp;  &lt;meta name="description" content="HTML description-max? 500 words perhaps. Start there."&gt;<br>
+&nbsp;&nbsp;  &lt;meta name="keywords" content="HTML,Template,Title,Keywords,Silus,Gaming,World"&gt;<br>
   &lt;!-- Twitter Meta --&gt; 
   &lt;meta name="twitter:card" content="summary" /&gt; 
   &lt;meta name="twitter:site" content="@bbauska" /&gt; 
