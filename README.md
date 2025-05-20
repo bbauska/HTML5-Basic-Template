@@ -1,2 +1,80 @@
 # basic-html-template
 Basic HTML5 index template.
+
+&lt;!DOCTYPE html&gt;
+&lt;html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US"&gt;
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of &lt;html5-basic-template&gt; ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<head>
+  <meta charset="utf-8" />
+  <link rel="shortcut icon" type="image/jpg" href="/images/favicon.ico" />
+
+  <!-- meta viewport, title, desc, robot for SEO -->
+  <meta name="author" content="Brian Bauska">
+  <meta name="title" content="Basic HTML Template Title">
+  <meta name="date" content="Tuesday, May 20th, 2025"/>
+  <meta name="revised" content="Saturday, May 24th, 2025"/>
+  <meta name="description" content="HTML description-max? 500 words perhaps. Start there.">
+  <meta name="keywords" content="HTML,Template,Title,Keywords,Silus,Gaming,World">
+  <!-- Twitter Meta -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@bbauska" />
+  <meta name="twitter:creator" content="@bbauska" />
+  <!-- Open Graph Meta
+  <meta property="og:url" content="https://google.com" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Basic HTML Template Title" />
+  <meta property="og:description" content="Open graph description of basic html template title." />
+  <meta property="og:image" content="http://images/myicon-template.jpg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <meta name="robots" content="index, follow">
+
+  <title>Basic HTML Template</title>
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
+  <link rel="canonical" href="https://html-basic-template.bauska.org">
+  
+  <link rel="stylesheet" href="https://unpkg.com/@highlightjs/cdn-assets@11.11.1/styles/default.min.css">
+  <script src="https://unpkg.com/@highlightjs/cdn-assets@11.11.1/highlight.min.js"></script>
+
+  <link rel="stylesheet" href="./css/style.css">
+  <!-- and it's easy to individually load SOME additional languages in javascript -->
+  <script src="https://unpkg.com/@highlightjs/cdn-assets@11.11.1/languages/go.min.js"></script>
+
+<!-- Open Graph data -->
+<meta property="og:title" content="meta-in-depth" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://meta.bauska.org/" />
+
+<!-- Facebook image must be at least 600x315px -->
+<meta property="og:image" content="https://www.meta.bauska.org/images/image.jpg" />
+<meta property="og:description" content="meta HTML &amp; CSS in Depth." />
+<meta property="og:site_name" content="meta-html-css-in-depth" />
+<meta property="fb:admins" content="https://www.facebook.com/help/211813265517027/?helpref=uf_share" />
+<link rel="shortcut icon" type="image/jpg" href="/images/favicon.ico"/>
+
+  <!-- favicon images -->
+  <link rel="apple-touch-icon" sizes="57x57" href="/images/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/images/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/images/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/images/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/images/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/images/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/images/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/images/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="/images/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/images/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/images/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+</head>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<body>
+
+</body>
+
+</html>
