@@ -6,29 +6,29 @@ Basic HTML5 index template.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of &lt;html5-basic-template&gt; ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-&lt;head&gt;
-  &lt;meta charset="utf-8" /&gt;
-  &lt;link rel="shortcut icon" type="image/jpg" href="/images/favicon.ico" /&gt;
+&lt;head&gt; 
+  &lt;meta charset="utf-8" /&gt; 
+  &lt;link rel="shortcut icon" type="image/jpg" href="/images/favicon.ico" /&gt; 
 
-  &lt;!-- meta viewport, title, desc, robot for SEO --&gt;
-  &lt;meta name="author" content="Brian Bauska"&gt;
-  &lt;meta name="title" content="Basic HTML Template Title"&gt;
-  &lt;meta name="date" content="Tuesday, May 20th, 2025"/&gt;
-  &lt;meta name="revised" content="Saturday, May 24th, 2025"/&gt;
-  &lt;meta name="description" content="HTML description-max? 500 words perhaps. Start there."&gt;
-  &lt;meta name="keywords" content="HTML,Template,Title,Keywords,Silus,Gaming,World"&gt;
-  &lt;!-- Twitter Meta --&gt;
-  &lt;meta name="twitter:card" content="summary" /&gt;
-  &lt;meta name="twitter:site" content="@bbauska" /&gt;
-  &lt;meta name="twitter:creator" content="@bbauska" /&gt;
-  &lt;!-- Open Graph Meta
-  &lt;meta property="og:url" content="https://google.com" /&gt;
-  &lt;meta property="og:type" content="article" /&gt;
-  &lt;meta property="og:title" content="Basic HTML Template Title" /&gt;
-  &lt;meta property="og:description" content="Open graph description of basic html template title." /&gt;
-  &lt;meta property="og:image" content="http://images/myicon-template.jpg" /&gt;
-  &lt;meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"&gt;
-  &lt;meta name="robots" content="index, follow"&gt;
+  &lt;!-- meta viewport, title, desc, robot for SEO --&gt; 
+  &lt;meta name="author" content="Brian Bauska"&gt; 
+  &lt;meta name="title" content="Basic HTML Template Title"&gt; 
+  &lt;meta name="date" content="Tuesday, May 20th, 2025"/&gt; 
+  &lt;meta name="revised" content="Saturday, May 24th, 2025"/&gt; 
+  &lt;meta name="description" content="HTML description-max? 500 words perhaps. Start there."&gt; 
+  &lt;meta name="keywords" content="HTML,Template,Title,Keywords,Silus,Gaming,World"&gt; 
+  &lt;!-- Twitter Meta --&gt; 
+  &lt;meta name="twitter:card" content="summary" /&gt; 
+  &lt;meta name="twitter:site" content="@bbauska" /&gt; 
+  &lt;meta name="twitter:creator" content="@bbauska" /&gt; 
+  &lt;!-- Open Graph Meta 
+  &lt;meta property="og:url" content="https://google.com" /&gt; 
+  &lt;meta property="og:type" content="article" /&gt; 
+  &lt;meta property="og:title" content="Basic HTML Template Title" /&gt; 
+  &lt;meta property="og:description" content="Open graph description of basic html template title." /&gt; 
+  &lt;meta property="og:image" content="http://images/myicon-template.jpg" /&gt; 
+  &lt;meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"&gt; 
+  &lt;meta name="robots" content="index, follow"&gt; 
 
   &lt;title&gt;Basic HTML Template&lt;/title&gt;
   &lt;link rel="icon" type="image/x-icon" href="/images/favicon.ico" /&gt;
